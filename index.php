@@ -1,4 +1,3 @@
-
 <!-- This is the basic webpage-->
 <!-- We call it a hypertext markup language document -->
 <!DOCTYPE html>
@@ -16,7 +15,47 @@
 </head> 
 <!-- body: where we will put the stuff we can see! -->
 <body>
-  <!-- suddenly, we can style our stuff with bootstrap classes!  -->
-    <h1>Hello World!</h1> 
+  <!-- let's add more! We'll put in some sections that we can fill with our examples!  -->
+    <h1>My Page</h1>
+    <div id = "section">
+  
+    <div class= "container">
+      <div class = "jumbotron">
+        <h2>First Chart Type</h2>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+        
+      </div>
+    </div>  
+    
+    <div class= "container">
+      <div class = "jumbotron">
+        <h2>Second Chart Type</h2>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+        
+      </div>  
+    </div>
+
+    <div class= "container">
+      <div class = "jumbotron">
+        <h2>Third Chart Type</h2>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+        
+      </div>  
+    </div> 
+
+    <div class= "container">
+      <div class = "jumbotron">
+        <h2>Fourth Chart Type (Not a chart!)</h2>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+        <h2>Video</h2>
+        
+        
+      </div>  
+    </div> 
+
+  </div>
+<!-- End Charts -->
+      
+</body>
       
 </body>
